@@ -1,5 +1,4 @@
-package day16_loops;
-import java.util.Locale;
+package day16_string;
 
 public class MethodChaining {
     public static void main(String[] args) {
