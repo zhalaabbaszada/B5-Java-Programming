@@ -1,4 +1,4 @@
-package day16_loops;
+package day16_string;
 import java.util.Scanner;
 
 /*
