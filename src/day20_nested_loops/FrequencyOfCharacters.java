@@ -1,4 +1,4 @@
-package day_20_nested_loops;
+package day20_nested_loops;
 /*
 
     String: apple
