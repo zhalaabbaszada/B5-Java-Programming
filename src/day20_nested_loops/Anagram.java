@@ -1,4 +1,4 @@
-package day_20_nested_loops;
+package day20_nested_loops;
 /*
     Given two Strings determine if they are anagram or not.
     Strings are anagram if they are built up of the same characters
