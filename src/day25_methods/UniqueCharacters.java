@@ -2,8 +2,6 @@ package day25_methods;
 
 import my_util.StringUtil;
 
-import java.util.Arrays;
-
 /*
     Make a method that returns the single characters of each in the String
      loopcamp

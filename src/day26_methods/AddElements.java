@@ -1,5 +1,7 @@
 package day26_methods;
 
+import java.util.Arrays;
+
 public class AddElements {
     public static void main(String[] args) {
         int [] nums = {1, 2, 3, 4, 5, 6};
