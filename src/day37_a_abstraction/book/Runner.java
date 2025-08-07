@@ -19,7 +19,7 @@ public class Runner {
 
         System.out.println();
         Prints.sayBye();
-        //Book.sayBye(); // // static method in interface is not inherited to Child
+        //Book.sayBye(); // static method in interface is not inherited to Child
 
         System.out.println();
         //Prints.sayHi();
